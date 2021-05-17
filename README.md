@@ -1,2 +1,2 @@
 # Calendar
-C programming
+Yearly Calendar by using C programming
